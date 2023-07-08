@@ -1,0 +1,3 @@
+[submodule "useful_scripts"]
+	path = useful_scripts
+	url = https://github.com/dd921/useful_scripts.git
